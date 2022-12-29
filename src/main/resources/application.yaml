@@ -1,0 +1,6 @@
+spring:
+  r2dbc:
+    url: "r2dbc:mysql://192.168.3.4/simple_todo?autoReconnect=true"
+    username: simple_todo
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver

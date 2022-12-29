@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class SimpletodoApplication
 
 fun main(args: Array<String>) {
-	runApplication<SimpletodoApplication>(*args)
+    runApplication<SimpletodoApplication>(*args)
 }
